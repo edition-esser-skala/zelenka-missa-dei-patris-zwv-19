@@ -1,0 +1,17 @@
+composer: Zelenka, Jan Dismas
+title: Missa Dei Patris
+id: ZWV 19
+genre: mass
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+sources:
+  1:
+    siglum: D-Dl
+    shelfmark: Mus.2358-D-11
+    type: autograph manuscript
+    date: 1740
+    rism: 212006525
+    url: http://digital.slub-dresden.de/id42660783X
+github: zelenka-missa-dei-patris-zwv-19
+imslp: Missa_Dei_Patris,_ZWV_19_(Zelenka,_Jan_Dismas)
+notes:
+
